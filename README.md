@@ -3,4 +3,4 @@
 -En construcción
 
 Para ejecutar el sistema  
-```nptk install p'''
+```npm install p´´´´
